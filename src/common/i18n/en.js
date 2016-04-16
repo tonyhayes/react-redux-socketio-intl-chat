@@ -1,0 +1,17 @@
+export default {
+    "channels.channels": "Your Channels",
+    "channels.addChannel": "Add A New Channel",
+    "channels.addChannelPlaceHolder": "Type a new channel name",
+    "channels.createChannelButton": "Create Channel",
+    "channels.cancelButton": "Exit",
+    "channels.moreChannels": "More Channels",
+    "channels.more": "more ...",
+    "channels.addChannelNameError": "A channel with that name already exists!",
+    "MessageComposer.placeholder": "Type to chat!",
+    "chat.directMessage": "Direct Message",
+    "chat.isTyping": "is typing",
+    "chat.and": "and",
+    "chat.areTyping": "are typing",
+    "chat.SeveralPeopleAreTyping": "several people are typing",
+    "userProfile.userProfile": "User Profile",
+}
