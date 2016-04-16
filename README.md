@@ -1,10 +1,9 @@
-[react-redux-socketio-chat](https://github.com/raineroviir/react-redux-socketio-chat)
 
 # React-redux-socketio-intl-chat
 
-> this applcation is a fork from [react-redux-socketio-chat](https://github.com/raineroviir/react-redux-socketio-chat)
+> this is a fork from [react-redux-socketio-chat](https://github.com/raineroviir/react-redux-socketio-chat)
 >
-> I am learning react/redux and as an exercise I have modified this chat by adding i18n using react-intl. 
+> I am learning react/redux and as an exercise I have added i18n using react-intl. 
 > I have removed the login page, externalized the css, changed the chat input to a text area and added a markdown renderer.
 > I have also removed bootstrap. 
 
